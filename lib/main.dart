@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
             return new Container(
               child: new Center(
                 child: new Column(
-                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  // crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: <Widget>[
                     new Card(
                       child: new Container(
